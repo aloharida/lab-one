@@ -1,0 +1,72 @@
+body{
+    background-color:rgb(203, 169, 236);
+    color: rgb(217, 255, 159);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+img{width: 50%;}
+
+
+h1{
+    color: rgb(203, 169, 236);
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+
+    font-size: 3cm;
+    background-color: rgb(55, 255, 178);
+}
+h2{
+    color: rgb(203, 169, 236);
+    background-color: midnightblue;
+    font-family: 'Lexend Tera', sans-serif;
+    font-size: 2cm;
+}
+h3{font-family: Arial, Helvetica, sans-serif;
+font-size: 1.5em;
+}
+ 
+h4{
+    color: tomato;
+    font-family: 'Ubuntu', sans-serif;
+}
+ .highlight{
+     background-color: rgb(255, 174, 0);
+     color: rgb(203, 169, 236);
+     font-size: 2cm;
+     font-style: italic;
+ }
+ .gold {
+     background-color: goldenrod;
+     font-size: 20px;
+ }
+
+
+ #Mygoal {
+    background-color: rgb(243, 145, 145);
+    color:rgb(0, 255, 157);
+    border-style: dashed;
+ }
+ 
+.container2{
+    background-color: paleturquoise;
+    color: red;
+    border-style: dotted;
+
+}
+.container3{
+    background-color: mistyrose;
+    color: orangered;
+  border-style: double;
+}
+.box{
+    text-align: center;
+    background-color: rgb(229, 255, 167);
+    box-sizing: border-box;
+    width: 10cm;
+    padding: 1em;
+    border-radius: 10px;
+
+}
+
+
